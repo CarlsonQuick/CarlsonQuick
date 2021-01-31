@@ -1,8 +1,10 @@
 # Carlson Quick
 Manager, Experienced Software Developer, Mildly pessimistic optimist
 
-Email:  crquick@gmail.com
+[Email](crquick@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/carlson-quick-17a6a44b/)
+
 
 ## About Me
 

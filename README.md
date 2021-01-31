@@ -50,7 +50,7 @@ Intern
 As school allowed, 2003, 2004
 
 ## Education
-[Montana Tech] (https://www.mtech.edu/)
+[Montana Tech](https://www.mtech.edu/)
 
 BS Software Engineering 
 

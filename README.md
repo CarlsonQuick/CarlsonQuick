@@ -20,12 +20,11 @@ QA Manager
 
 Software Development Engineer (Test)  
 
+July 2012 - Present
 #### Most Used Skills
 Employee Development, Python, Interviewing, Mentorship, Java, Telemetry, Javascript, Angular, Test Containers, Pact, Docker, Performance Testing
 
-
-July 2012 - Present
-
+----------- 
 
 ### [Microsoft](https://www.microsoft.com/en-us/) (Office, Excel, Sharepoint)
 Software Development Engineer (Test)
@@ -35,6 +34,7 @@ May 2008 - July 2012
 #### Most Used Skills
 C#, Excel Services, Power Pivot, Analysis Services, Performance Testing
 
+-----------
 
 ### [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html)
 Software Development Engineer
@@ -46,6 +46,7 @@ SSBI Clearance (Obtained Spring 2005, currently inactive)
 #### Most Used Skills
 C++, Unit Testing, Power Pivot, Analysis Services, Performance Testing
 
+-----------
 
 ### Extended Systems:
 Intern

@@ -1,5 +1,5 @@
 # Carlson Quick
-Manager, Experienced Software Developer, Mildly pessimistic optimist
+Manager, Experienced Software Developer, What can I do to make your week better?
 
 Email: crquick@gmail.com
 
